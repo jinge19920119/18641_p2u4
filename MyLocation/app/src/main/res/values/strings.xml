@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Send SMS to this number:</string>
+    <string name="getLocation">Get Location!</string>
+    <string name="SMS">Send message!</string>
+</resources>
